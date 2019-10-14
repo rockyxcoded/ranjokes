@@ -1,6 +1,6 @@
 # ranjokes
 
-> Funny Random Jokes app
+> Boring Random Jokes app
 
 ## Build Setup
 
@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Uses [15Dkatz](https://github.com/15Dkatz/official_joke_api)'s random jokes API.
